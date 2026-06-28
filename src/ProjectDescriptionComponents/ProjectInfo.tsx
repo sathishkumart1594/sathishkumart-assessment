@@ -1,6 +1,6 @@
 import portfolio from "../assets/portfolio.png";
 
-import techStack from "../assets/techstack.png";
+import techStack from "../assets/techStack.png";
 
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
